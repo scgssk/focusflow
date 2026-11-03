@@ -5,7 +5,7 @@ import { useTimer } from "../hooks/useTimer";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 
 // We no longer need TRACKS – single file:
-const AUDIO_SRC = "/audio/interstellar.mp3";
+const AUDIO_SRC = "/audio/flowstate.mp3";
 
 // Icons8-style speaker icons (minimal SVG)
 const IconVolume = () => (
